@@ -22,7 +22,6 @@ const changeColor = () => {
       nextIndex();
 }
 
-const stopAutomatic = ()
 
 const turnOn = {
     'red':    () => img.src = './img/vermelho.png',
